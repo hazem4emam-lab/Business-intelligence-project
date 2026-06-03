@@ -295,7 +295,7 @@ Sales Director
 
 ### Dashboard Preview
 
-![Sales Overview](images/sales-overview.png)
+![Sales Overview](<img width="1074" height="604" alt="WhatsApp Image 2026-06-04 at 2 02 13 AM" src="https://github.com/user-attachments/assets/389e5df3-f85e-473e-9104-b3340519b27e" />)
 
 ---
 
@@ -324,7 +324,7 @@ Store Operations Manager
 
 ### Dashboard Preview
 
-![Store Sales](images/store-sales.png)
+![Store Sales](<img width="1074" height="596" alt="Store Sales" src="https://github.com/user-attachments/assets/6c187884-4381-4fff-b7f6-319413eea409" />)
 
 ---
 
@@ -353,7 +353,7 @@ E-Commerce & Fulfillment Manager
 
 ### Dashboard Preview
 
-![Online Orders](images/online-orders.png)
+![Online Orders](<img width="1058" height="590" alt="Online Orders" src="https://github.com/user-attachments/assets/b8c202ce-7826-4617-9d51-b8b0406cf56d" />)
 
 ---
 
@@ -381,7 +381,7 @@ Customer Insights Analyst
 
 ### Dashboard Preview
 
-![Customer Analysis](images/customer-analysis.png)
+![Customer Analysis](<img width="1071" height="604" alt="Customer Analysis" src="https://github.com/user-attachments/assets/721fd1cc-51e5-493f-aee5-2c17ce488723" />)
 
 ---
 
@@ -409,7 +409,7 @@ Marketing Analyst
 
 ### Dashboard Preview
 
-![Promotions](images/promotions.png)
+![Promotions](<img width="1074" height="600" alt="Promotions" src="https://github.com/user-attachments/assets/c224dee9-fabe-426c-8626-f32fc1a33a0f" />)
 
 ---
 
